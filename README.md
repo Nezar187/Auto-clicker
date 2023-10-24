@@ -22,15 +22,9 @@ Auto-Clicker is a simple yet powerful tool designed to automate the clicking pro
 3. **Start Clicking**
    - Once configured, start the auto-clicker, and it will handle the clicking process automatically.
 
-## Contributing
-
-Feel free to contribute to the development of Auto-Clicker by creating a pull request or opening an issue for any bugs or feature requests.
-
 ## Disclaimer
 
 Use the Auto-Clicker responsibly. The creator is not responsible for any misuse or consequences resulting from the use of this tool.
-
-
 
 # preview
 ![preview](https://github.com/Nezar187/Auto-clicker/assets/131178788/28de36bb-8112-4c7c-8cf6-31f5ee9a0ec8)
